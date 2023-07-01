@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Jose (josephjose99)
 - 👀 I’m interested in coding and playing football.
 - 🌱 I’m currently learning more about java and its different frameworks which include Spring.
-- 💞️ I’m looking to collaborate on an E-commerce website for tissue paper production company to supply it for hostel , resturants, supermarket , literaly an where tissue paper is used in large amount.
+- 💞️ I’m looking to collaborate on an E-commerce website for tissue paper production company to supply it for hostel , resturants, supermarket , literaly any where tissue paper is used in large amount.
 - 📫 You reach me through either my phone number which 9495602567 or mail j4josephjose@gmail.com.
